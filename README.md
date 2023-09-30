@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eagounet
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in machine learning and AI
+- 🌱 I’m currently learning Python, SQL
+- 💞️ I’m looking to collaborate on anything but i'm newbie
 - 📫 How to reach me: eagounet@gmail.com
 
 <!---
